@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=
+comment1.target=Veiculo()
+comment2.params=placa
+comment2.target=void\ setPlaca(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPlaca()
+numComments=4

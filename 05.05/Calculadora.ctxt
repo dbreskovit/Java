@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a
+comment1.target=void\ LerA(double)
+comment10.params=a\ b
+comment10.target=Calculadora(double,\ double)
+comment2.params=b
+comment2.target=void\ LerB(double)
+comment3.params=
+comment3.target=void\ somar()
+comment4.params=
+comment4.target=void\ subtrair()
+comment5.params=
+comment5.target=void\ multiplicar()
+comment6.params=
+comment6.target=void\ dividir()
+comment7.params=
+comment7.target=double\ mostrarResultado()
+comment8.params=
+comment8.target=Calculadora()
+comment9.params=a
+comment9.target=Calculadora(double)
+numComments=11

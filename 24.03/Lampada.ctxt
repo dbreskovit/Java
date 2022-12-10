@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lampada
+comment0.text=\r\n\ \ \ \ \u25AC\u25AC\u25AC\u25AC\u25AC.\u25D9.\u25AC\u25AC\u25AC\u25AC\u25AC\ \ \r\n\ \ \ \ \ \ \ \ \u2582\u2584\u2584\u2593\u2584\u2584\u2582\ \ \r\n\ \ \ \ \u25E2\u25E4\u2588\u2580\u2580\u2588\u2588\u2588\u2588\u2584\u2584\u2584\u2584\u2584\u2584\ \u25E2\u25E4\ \ \r\n\ \ \ \ \u2588\u2584\ \u2588\ \u2588\u2584\ \u2588\u2588\u2588\u2580\u2580\u2580\u2580\u2580\u2580\u2580\ \u256C\ \ \r\n\ \ \ \ \u25E5\ \u2588\u2588\u2588\u2588\u2588\ \u25E4\ \ \r\n\ \ \ \ \ \ \ \ \u2550\u2550\u2569\u2550\u2550\u2569\u2550\ \ \r\n\ \ \ \ \ \ \ \ \u256C\u2550\u256C\ \ \r\n\ \ \ \ \ \ \ \ \u256C\u2550\u256C\ \ \ "What\ is\ the\ use\ of\ so\ many\ codes?\ \r\n\ \ \ \ \ \ \ \ \u256C\u2550\u256C\ \ \ If\ life\ is\ not\ programmed\ and\ the\ best\ things\ have\ no\ logic?"\r\n\ \ \ \ \ \ \ \ \u256C\u2550\u256C\ \ \ \ @author\ Diego\ Breskovit\r\n\ \ \ \ \uD83D\uDC80/\ \u256C\u2550\u256C\r\n\ \ \ \ /\u258C\ \ \u256C\u2550\u256C\ \ \ \r\n\ \ \ \ /\ \\\r\n\ \ \ \ \r\n
+comment1.params=
+comment1.target=void\ desliga()
+comment2.params=
+comment2.target=void\ liga()
+comment3.params=
+comment3.target=void\ mostrarEstado()
+comment4.params=estado
+comment4.target=Lampada(boolean)
+comment5.params=idadeCleitom
+comment5.target=Lampada(int)
+comment6.params=
+comment6.target=Lampada()
+numComments=7

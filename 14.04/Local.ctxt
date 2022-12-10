@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Local
+comment1.params=cidade\ zona
+comment1.target=Local(java.lang.String,\ java.lang.String)
+comment2.params=cidade
+comment2.target=void\ setCidade(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCidade()
+comment4.params=zona
+comment4.target=void\ setZona(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getZona()
+numComments=6
