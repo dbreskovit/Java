@@ -33,7 +33,7 @@ Clone the project and access the folder.
 $ git clone https://github.com/dbreskovit/Java
 ```
 
-Use the <a href="https://netbeans.apache.org/download/index.html"><kbd>Apache NetBeans</kbd></a> to run projects.
+Use the <a href="https://netbeans.apache.org/download/index.html">Apache NetBeans</a> to run projects.
 
 ## 🦄 Authors
 
